@@ -1,11 +1,11 @@
-# Challenge #0
+# Challenge #1
 
 # THE FAMOUS "FIZZ BUZZ"
 # Difficulty: EASY
 # Statement: Write a program that displays through the console (with a print) the numbers from 1 to 100 (both included and with a line break between each print), substituting the following:
 # - Multiples of 3 for the word "fizz".
 # - Multiples of 5 for the word "buzz".
-# - Multiples of 3 and 5 at the same time for the word "fizzbuzz".
+# - Multiples of 3 and 5 at the same time for the word "fizz buzz".
 
 def try1():
     for index in range(1, 101):
