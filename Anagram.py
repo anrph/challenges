@@ -1,4 +1,4 @@
-# Challenge #1
+# Challenge #2
 
 # IS IT AN ANAGRAM?
 # Write a function that takes two words (String) and returns true or false (Bool) depending on whether or not they are anagrams.
