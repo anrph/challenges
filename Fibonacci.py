@@ -1,4 +1,4 @@
-# Challenge #2
+# Challenge #3
 
 # The Fibonacci sequence
 # Write a program that prints the first 50 numbers of the Fibonacci sequence starting at 0.
